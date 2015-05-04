@@ -194,7 +194,7 @@ p {
 }
 #jumbo {
     padding-left:4em;
-    margin-left:3.5em;
+    margin:auto;
 }
 #desc {
     font-size:1.5em;
@@ -237,4 +237,9 @@ li{
 #jumbo-pages {
     max-width:60em;
     margin:auto;
+}
+
+.school,.college {
+  padding:0;
+  margin:1.5em;
 }
