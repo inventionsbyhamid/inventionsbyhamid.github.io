@@ -70,6 +70,16 @@ var app = angular
       .when('/mait', {
         templateUrl: 'views/mait.html'        
       })
+      .when('/fapsnewdelhi-class12', {
+        templateUrl: 'views/fapsdelhiclass12.html'        
+      })
+      .when('/fapsnewdelhi-class11', {
+        templateUrl: 'views/fapsdelhiclass11.html'        
+      })
+      .when('/fapsnewdelhi-class10', {
+        templateUrl: 'views/fapsdelhiclass10.html'        
+      })
+    
     
 
       .otherwise({
